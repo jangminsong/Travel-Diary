@@ -6,6 +6,10 @@ My teammates and
 
 
 ## File Structures
-* `TravelDiary-main/app/src/main/java/hu/ait/traveldiary`
+* `TravelDiary-main/app/src/main/java/hu/ait/traveldiary` - EXPLANATION WHATEVER NEEDED
 
 ## Authors
+*
+*
+*
+*
