@@ -22,7 +22,7 @@ The Application can be ran by opening the file with latest version of Android St
     * `/map/MapScreen.kt` - map screen where all the places visited will be appeared on google map with icons and when the icon is clicked, the picture that was taken pops up.
   *`BottomBarScreen.kt` - buttom bar which screens can be easily changed by clicking the icons
 
-## Collaborators 
+## Collaborators - @github username
 * Ashley Liang   - @ashleyliangg
 * Mustafa Sameen - @ssameen
 * Sabine Mejia   - @sabine-mejia
